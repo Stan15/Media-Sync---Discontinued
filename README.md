@@ -23,7 +23,8 @@ Users can download individual media, or individual playlists, without having it 
 # Sync/Download location and media format selection
 Users can choose to sync media as either audio files, video files, or both and can specify the desired locations for these syncs or one-time downloads.
 
-[![File location](https://user-images.githubusercontent.com/47716543/103263727-ac436a80-4976-11eb-8db4-0f115b3075f0.png)](https://user-images.githubusercontent.com/47716543/103263643-769e8180-4976-11eb-93ee-15fb3c1bcec7.mp4 "File location and media format selection")
+![File location](https://user-images.githubusercontent.com/47716543/103320469-7bf5dd80-4a03-11eb-9be3-85e3182a745f.gif)
+
 
 
 
