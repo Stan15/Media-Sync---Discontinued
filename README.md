@@ -14,7 +14,7 @@ User login through Firebase Authentication, and storing of user setting preferen
 # Syncing playlists
 Playlist media are synced onto the user's local device, as video, audio, or both, in the location of their choosing.
 ![Syncing playlists](https://user-images.githubusercontent.com/47716543/103320150-4dc3ce00-4a02-11eb-8737-6d264eb8550d.gif)
-  |  [![Sync settings](https://user-images.githubusercontent.com/47716543/103262895-3ccc7b80-4974-11eb-9a06-ea727b938a58.png)](https://user-images.githubusercontent.com/47716543/103263027-ae0c2e80-4974-11eb-8a2a-3f461dc8ed62.mp4 "Adding YouTube playlists to be synced")
+  |  ![Sync settings](https://user-images.githubusercontent.com/47716543/103320341-f5d99700-4a02-11eb-8cf2-0ecbfdf8dd4d.gif)
 
 # Individual/One-time media download
 Users can download individual media, or individual playlists, without having it constantly synced to their device.
