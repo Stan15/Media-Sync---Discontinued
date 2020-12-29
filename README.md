@@ -15,10 +15,10 @@ Playlist media are synced onto the user's local device, as video, audio, or both
 Users can download individual media, or individual playlists, without having it constantly synced to their device.
 [![Individual download](https://user-images.githubusercontent.com/47716543/103263540-29221480-4976-11eb-8b9c-4d69532bba6f.png)](https://user-images.githubusercontent.com/47716543/103263545-2c1d0500-4976-11eb-9e4a-e6e629e25bda.mp4 "Download individual media an audio or a video file")
 
-# Sync/Download location and media sync format selector
+# Sync/Download location and media format selection
 Users can choose to sync media as either audio files, video files, or both and can specify the desired locations for these syncs or one-time downloads.
 
-[![Individual download](https://user-images.githubusercontent.com/47716543/103263727-ac436a80-4976-11eb-8db4-0f115b3075f0.png)](https://user-images.githubusercontent.com/47716543/103263643-769e8180-4976-11eb-93ee-15fb3c1bcec7.mp4 "Download individual media an audio or a video file")
+[![File location](https://user-images.githubusercontent.com/47716543/103263727-ac436a80-4976-11eb-8db4-0f115b3075f0.png)](https://user-images.githubusercontent.com/47716543/103263643-769e8180-4976-11eb-93ee-15fb3c1bcec7.mp4 "File location and media format selection")
 
 
 
