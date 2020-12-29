@@ -8,7 +8,7 @@ The firebase function code, written in typescript, is also left above. It is wri
 
 # User authentication
 User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions(storage access limitation preventing the use of youtube-dl). Watch the following video.
-![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103319914-8adb9080-4a01-11eb-8717-6e5d37defb24.gif)
+![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103320066-0a695f80-4a02-11eb-8a04-f9ebb5103e79.gif)
 
 # Syncing playlists
 Playlist media are synced onto the user's local device, as video, audio, or both, in the location of their choosing.
