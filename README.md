@@ -6,4 +6,4 @@ The project was not brought to completion due to both a limitation of Firebase f
 User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions(storage access limitation preventing the use of youtube-dl)
 
 jk
-[![Firebase authentication demo](doc/screenshot_youtube.PNG)](https://user-images.githubusercontent.com/47716543/103261279-f1639e80-496e-11eb-9b94-72184d07ee83.mp4 "Authhentication and user preference storage")
+[![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103261857-f4f82500-4970-11eb-8a99-2e385a750579.png)](https://user-images.githubusercontent.com/47716543/103261279-f1639e80-496e-11eb-9b94-72184d07ee83.mp4 "Authhentication and user preference storage")
