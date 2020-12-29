@@ -7,7 +7,7 @@ User login through Firebase Authentication, and storing of user setting preferen
 
 [![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103261857-f4f82500-4970-11eb-8a99-2e385a750579.png)](https://user-images.githubusercontent.com/47716543/103261279-f1639e80-496e-11eb-9b94-72184d07ee83.mp4 "Authhentication and user preference storage")
 
-[![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103262456-fb879c00-4972-11eb-8d8d-f1721ab5ad61.png)](https://user-images.githubusercontent.com/47716543/103262014-97b0a380-4971-11eb-90c1-b5b730aaa0c4.mp4 "Authhentication and user preference storage")
+[![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103262589-5faa6000-4973-11eb-9e47-714e9e0e80d3.png)](https://user-images.githubusercontent.com/47716543/103262014-97b0a380-4971-11eb-90c1-b5b730aaa0c4.mp4 "Authhentication and user preference storage")
 
 
 
