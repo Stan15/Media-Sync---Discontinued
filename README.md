@@ -3,6 +3,9 @@ This discontinued software is not complete in its implementation, but was made, 
 
 The project was not brought to completion due to both a limitation of Firebase functions (which i faultily chose to implement the required server functions), and the possibly illegal nature of an audio/video downloader software.
 
+The firebase function code, written in typescript, is also left above. It is written almost to completion, but is non-functional due to the aforementioned limitation.
+
+# User authentication
 User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions(storage access limitation preventing the use of youtube-dl). Watch the following video.
 
 [![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103262795-f6771c80-4973-11eb-927d-f2e37197dee7.png)](https://user-images.githubusercontent.com/47716543/103261279-f1639e80-496e-11eb-9b94-72184d07ee83.mp4 "Authhentication and user preference storage")
