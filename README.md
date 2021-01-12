@@ -4,10 +4,10 @@ The project was not brought to completion due to both a limitation of Firebase f
 
 This discontinued software is not complete in its implementation, but was made, using flutter, as a mobile application which not only downloads media as either video or audio files from streaming sites such as YouTube and Vimeo, but also syncs YouTube playlists to your local device storage as either audio or video files.
 
-The firebase function code, written in typescript, is also left above. It is written almost to completion, but is non-functional due to the aforementioned limitation.
+The firebase function code, written in typescript, was written to completion, but is non-functional due to the aforementioned limitation(a storage access limitation preventing the use of youtube-dl on a firebase function).
 
 # User authentication
-User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions(storage access limitation preventing the use of youtube-dl).
+User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions
 
 ![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103320066-0a695f80-4a02-11eb-8a04-f9ebb5103e79.gif)
 
