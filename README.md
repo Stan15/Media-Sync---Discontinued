@@ -14,12 +14,12 @@ User login through Firebase Authentication, and storing of user setting preferen
 ![Firebase authentication demo](https://user-images.githubusercontent.com/47716543/103320066-0a695f80-4a02-11eb-8a04-f9ebb5103e79.gif)
 
 # Syncing playlists
-Playlist media are synced onto the user's local device, as video, audio, or both, in the location of their choosing.
+Playlist media are synced onto the user's local device, as video, audio, or both, in the location of their choosing. (media download is simulated as cloud function to download a link does not function)
 ![Syncing playlists](https://user-images.githubusercontent.com/47716543/103320427-4d780280-4a03-11eb-9424-e2b473cf115e.gif)
   |  ![Sync settings](https://user-images.githubusercontent.com/47716543/103320341-f5d99700-4a02-11eb-8cf2-0ecbfdf8dd4d.gif)
 
 # Individual/One-time media download
-Users can download individual media, or individual playlists, without having it constantly synced to their device.
+Users can download individual media, or individual playlists, without having it constantly synced to their device. (media download is simulated as cloud function to download a link does not function.)
 ![One-time download](https://user-images.githubusercontent.com/47716543/103320864-0a1e9380-4a05-11eb-89a3-3e810cf04cb9.gif)
 
 # Sync/Download location and media format selection
