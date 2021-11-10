@@ -4,6 +4,8 @@ The project was not brought to completion due to both a limitation of Firebase f
 
 This discontinued software is not complete in its implementation, but was made, using flutter, as a mobile application which not only downloads media as either video or audio files from streaming sites such as YouTube and Vimeo, but also syncs YouTube playlists to your local device storage as either audio or video files.
 
+All the front-end, user authentication, and connection to both the database and cloud functions are completely implemented, but the implementation of the cloud function which downloads a given link could not be completed due to a limitation of firebase functions.
+
 The firebase function code, written in typescript, was written to completion, but is non-functional due to the aforementioned limitation(a storage access limitation preventing the use of youtube-dl on a firebase function).
 
 # User authentication
