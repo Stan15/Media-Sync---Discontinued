@@ -1,12 +1,12 @@
 # Media-Sync---Discontinued
 
-The project was not brought to completion due to both a limitation of Firebase functions (which i faultily chose to implement the required server functions), and the possible legal ramifications which an audio/video downloader software could incur on its creator.
+The project was not brought to completion due to both a limitation in the integration of youtube-dl with Firebase functions, and the possible legal ramifications which an audio/video downloader software could incur on its creator.
 
 This discontinued software is not complete in its implementation, but was made, using flutter, as a mobile application which not only downloads media as either video or audio files from streaming sites such as YouTube and Vimeo, but also syncs YouTube playlists to your local device storage as either audio or video files.
 
-All the front-end, user authentication, and connection to both the database and cloud functions are completely implemented, but the implementation of the cloud function which downloads a given link could not be completed due to a limitation of firebase functions.
+All the front-end, user authentication, and connection to both the database and cloud functions are completely implemented, but the implementation of the cloud function which downloads a given link could not be completed due to a limitation in the integration of Firebase functions with youtube-dl.
 
-The firebase function code, written in typescript, was written to completion, but is non-functional due to the aforementioned limitation(a storage access limitation preventing the use of youtube-dl on a firebase function).
+The firebase function code, written in typescript, was written to completion, but is not functional due to the aforementioned limitation(a storage access limitation preventing the use of youtube-dl on a firebase function).
 
 # User authentication
 User login through Firebase Authentication, and storing of user setting preferences with Cloud Firestore, and server functions with firebase functions</br>
