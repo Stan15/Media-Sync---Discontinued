@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654544609636",
+    "firebase_url": "https://media-sync-49636.firebaseio.com",
+    "project_id": "media-sync-49636",
+    "storage_bucket": "media-sync-49636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654544609636:android:a2648e211ec28d61211a71",
+        "android_client_info": {
+          "package_name": "com.elevate.mediasync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654544609636-84apk7v8hp1ot3d2n3kro68er8b2b1hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvOw8kjLW9nR_wqAA6-UrrM3YDekurctU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654544609636-84apk7v8hp1ot3d2n3kro68er8b2b1hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
