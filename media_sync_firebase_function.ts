@@ -41,6 +41,7 @@ function getVidsInPlaylist(plist:string): string[]{
 
     youtubedl.setYtdlBinary(customBinaryPath)
 
+    //code that was previously here to get the videos in the playlist kept giving an error I couldn't find a solution to. The code below was simply just my attempts to debug the problem.
     youtubedl.getInfo(plist, [], function(err:any, info:any) {
         if (err) throw err
        
